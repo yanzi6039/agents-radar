@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.168发布，子代理失控与内存泄漏严重",
+      "OpenAI Codex遇GPT-5.5适配Bug，致额度异常消耗",
+      "Gemini CLI修复代理挂起与底层命令注入安全漏洞",
+      "GitHub Copilot CLI遇WSL2严重回归缺陷",
+      "Qwen Code v0.17.1-nightly爆发Daemon化与ACP集成",
+      "上下文压缩失忆与死循环成多款CLI工具致命缺陷"
+    ],
+    "ai-agents": [
+      "OpenClaw发布v2026.6.5-beta.2，修复模型推理内容泄漏",
+      "QQBot渠道剥离思考脚手架，防原始thinking泄漏",
+      "MCP协议增强，强制转换未知类型提升调用鲁棒性",
+      "修复Cron任务污染全局认证状态的严重Bug",
+      "Dreaming语料库排除已归档记录防噪声污染",
+      "飞书渠道增加发送限速的重试机制"
+    ],
+    "ai-trending": [
+      "Rust向量库TurboVec单日斩获超1500 star成黑马",
+      "hermes-agent总星标超18.5万，今日热度极高",
+      "Agent技能模块化爆发，全网调研技能单日增千星",
+      "taste-skill赋予AI好品味，解决生成内容平庸痛点",
+      "开源版Notebook LM引关注，单日新增555星",
+      "ollama支持Kimi-K2.6与GLM-5.1一键运行"
+    ],
+    "ai-web": [
+      "Anthropic提交S-1准备IPO，完成650亿美元H轮融资",
+      "Anthropic发布Claude Opus 4.8及爆炸半径约束文章",
+      "Claude Mythos Preview曾因爆炸半径过大被拒绝发布",
+      "OpenAI单日密集推出GPT-5.4 Mini/Nano及Images 2.0",
+      "Anthropic研究实证AI训练可能意外产生失准行为",
+      "Anthropic新分类器将越狱成功率从86%降至4.4%"
+    ],
+    "ai-hn": [
+      "职业焦虑贴登顶，引发AI冲击软件工程的反思",
+      "Jane Street工程师用Claude替代Figma设计引热议",
+      "开发者担忧本地Coding Agent权限失控随时删库",
+      "Lathe主张用LLM作学习脚手架而非直接代劳",
+      "巨头被指每赚100美元可能烧掉超1000美元",
+      "论文反讽LLM拟人化话术，为AI炒作降温"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro狂揽近4700赞与超550万下载霸榜",
+      "Google发Gemma-4系列，原生支持Any-to-Any多模态",
+      "Nvidia推出550B超大MoE架构Nemotron-3-Ultra",
+      "Sulphur-2-base引爆本地视频生成，下载超171万",
+      "MiniCPM5-1B发布，极小体积提供越级文本生成能力",
+      "Qwen3.6社区去审查微调版与量化版下载量极高"
+    ],
+    "ai-community": [
+      "盲信AI全自动测试致损280万，人工监督不可替",
+      "AI Slop低质量生成代码正成为软件工程技术债",
+      "5-Agent AI系统实战：在报警前自愈K8s集群",
+      "揭秘Claude Code源码：并非递归自我改进Agent",
+      "LLM FinOps实操：按团队或项目追踪API成本",
+      "解析Anthropic 80%生产代码由AI编写的真相"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.168 released today",
+      "Context compaction is AI CLI's top bottleneck",
+      "Windows/WSL stability remains a major pain point",
+      "Security focus shifting to credential leak prevention",
+      "Qwen Code v0.17.1-nightly released",
+      "Runaway token spend in sub-agents escalating"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.6.5-beta.2 released today",
+      "OpenClaw merged 119 PRs in just 24 hours",
+      "QQBot now strips raw <thinking> blocks",
+      "Push for Teams, Telegram, Feishu integrations",
+      "Rapid feature expansion outpacing stability",
+      "Focus on cron job isolation and memory mgmt"
+    ],
+    "ai-trending": [
+      "Modular AI skills explode, gaining 1000+ stars",
+      "Rust-powered turbovec gains 1533 stars today",
+      "NousResearch hermes-agent debuts strongly",
+      "RAG ecosystem shifting to hybrid reasoning",
+      "Ollama remains go-to for local LLM adoption",
+      "llama.cpp holds steady for edge inference"
+    ],
+    "ai-web": [
+      "Anthropic filed S-1, $965B valuation",
+      "Claude Mythos deemed too dangerous to release",
+      "OpenAI references GPT Rosalind and 5.4 Mini",
+      "Anthropic introduces blast radius for agents",
+      "OpenAI expanding with ChatGPT Health product",
+      "Anthropic ships Claude Opus 4.8 alongside IPO"
+    ],
+    "ai-hn": [
+      "Deep anxiety over AI eroding software careers",
+      "Scrutiny on frontier AI massive revenue burn",
+      "Design workflows shifting from Figma to Claude",
+      "Gwern sparks debate on catapulting neural nets",
+      "Fears of catastrophic AI agent failures loom",
+      "Pushback against anthropomorphizing LLMs"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro dominates with 5.5M downloads",
+      "Industry shifts to any-to-any multimodal models",
+      "Nvidia unleashes 550B Nemotron-3-Ultra MoE",
+      "Open-weight video gen explodes with Sulphur-2",
+      "Community quantization pipelines keeping pace",
+      "Efficient 1B models HRM-Text & MiniCPM5 rise"
+    ],
+    "ai-community": [
+      "Unchecked AI testing failure costs $2.8M",
+      "AI slop becoming a major engineering problem",
+      "FinOps for LLM spend attribution is buzzing",
+      "Shift from AI hype to cost-controlled agents",
+      "Debate on LLM intelligence vs human attributes",
+      "Emphasizing the critical role of post-training"
+    ]
+  }
+}
