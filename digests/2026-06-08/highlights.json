@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Qwen Code发布v0.17.1-nightly，架构大跃迁攻坚OOM！",
+      "上下文黑洞痛点：Copilot CLI陷无限压缩死循环！",
+      "Claude Code陷计费争议与静默数据损坏风波。",
+      "OpenAI Codex怨声载道：限流严重、狂烧Token。",
+      "CLI工具演进：沙箱隔离与权限精细化成核心壁垒。",
+      "多模型动态路由成标配，单模型绑定时代终结。"
+    ],
+    "ai-agents": [
+      "OpenClaw单日PR更新高达500条，开发极度密集！",
+      "修复关键逻辑：full权限不再是限制最严格级别。",
+      "严重Bug修复：群聊失败状态不再静默丢弃消息。",
+      "飞书API限流错误现自动重试逻辑，投递更稳。",
+      "子智能体安全加固：实现工具调用白名单转发机制。",
+      "运行时引入自上下文配置，奠定scale感知基础。"
+    ],
+    "ai-trending": [
+      "Agent技能大爆发！taste-skill让AI告别套路废话。",
+      "hermes-agent席卷双榜，185k+星主打共同成长。",
+      "turbovec日增1554星，Rust解AI检索性能瓶颈。",
+      "last30days-skill爆火，跨平台检索合成高质量摘要。",
+      "ollama星标破17万，已支持Kimi-K2.6等最新模型。",
+      "CLI Agent持久化记忆与上下文管理成RAG新焦点。"
+    ],
+    "ai-hn": [
+      "最高分：Linux开发者集体请愿官方Claude客户端！",
+      "前端变天？Jane Street工程师用Claude替代Figma。",
+      "帝国时代2反驳LLM拟人化，AI意识边界引激辩。",
+      "Lathe逆提效潮流：用LLM深度学习而非走捷径。",
+      "顶级AI公司1000:100烧钱换规模，引发生计担忧。",
+      "开发者深扒OpenAI o1/o3“思考力度”黑盒机制。"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro登顶，550万下载霸榜开源王者！",
+      "Google发布Gemma-4-12B，Any-to-Any多模态引爆社区。",
+      "英伟达550B超大MoE模型Nemotron-3-Ultra开源！",
+      "Sulphur-2视频生成模型下载破171万，需求火爆。",
+      "面壁智能MiniCPM5-1B发布，1B端侧模型人气极高。",
+      "LocateAnything-3B登顶多模态热榜，万物精准定位。"
+    ],
+    "ai-community": [
+      "盲信AI自测致损失280万刀，人工兜底不可少！",
+      "硬核源码分析：Claude Code根本不是递归Agent！",
+      "多Agent执行安全危机，亟需全新架构模式解法。",
+      "40年老兵反思：Vibe Coding正毁掉工程“手艺”。",
+      "生产级RAG避坑：纯向量检索败退，混合搜索上位。",
+      "LLM FinOps实战：如何按团队/项目精准追踪API开销。"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "AI CLI tools shifting from code-gen to autonomous agents.",
+      "Qwen Code is the only tool to ship a nightly release today.",
+      "OpenAI Codex plagued by token burning and resource leaks.",
+      "Gemini CLI fixes agent hanging and command injection.",
+      "Claude Code users hit with moderation false-positives.",
+      "Ecosystem focus pivots from raw capability to safety."
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 PRs updated but no new releases today.",
+      "OpenClaw merges 126 PRs amid potential review bottlenecks.",
+      "Subagent tooling advances via toolsAllow forwarding.",
+      "Critical P1 regressions demand immediate attention.",
+      "Fix for missing model parameter in spawnSubagentDirect.",
+      "Community heavily focused on session state reliability."
+    ],
+    "ai-trending": [
+      "Agent skills surge: last30days-skill gains 1,100+ stars.",
+      "Rust revolution: turbovec debuts with 1,554 stars today.",
+      "Hermes-agent sees explosive growth for agent architectures.",
+      "RAG and Agent workflows blur as memory tools go native.",
+      "Plug-and-play research skills surge for autonomous agents.",
+      "Rust backends replacing pure Python ML infrastructure."
+    ],
+    "ai-hn": [
+      "Frontier AI labs burning $1000 for every $100 in revenue.",
+      "Developers demand official Claude Desktop client for Linux.",
+      "HN pushes back on AI anthropomorphism via Age of Empires II.",
+      "Developer replaces Figma with Claude for UI/UX design.",
+      "Community questions if AI monopolies capture too much value.",
+      "Devs dive into mechanics of LLM thinking and effort levels."
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Pro dominates with 5.5M downloads this week.",
+      "Google's Gemma 4 12B makes a massive splash on the charts.",
+      "DeepSeek-V4-Flash gains traction for accessible inference.",
+      "Nvidia expands footprint with Nemotron-3-Ultra and Cosmos3.",
+      "Unsloth GGUF quantizations fuel mid-sized multimodal models.",
+      "Sulphur-2 and Ideogram 4 drive high engagement in gen media."
+    ],
+    "ai-community": [
+      "Unchecked AI testing failure costs company $2.8M in one day.",
+      "Community pivots from hype to FinOps and cost attribution.",
+      "Basic log trails insufficient for proving AI agent intent.",
+      "Veteran engineer debunks viral 8x AI productivity myth.",
+      "Lobste.rs dismantles AI anthropomorphism vs human projection.",
+      "Hybrid search fixes dense search failures in production RAG."
+    ]
+  }
+}
